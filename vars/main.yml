@@ -1,2 +1,6 @@
 ---
 # vars file for ansible-role-commencer
+
+pano_address: 192.168.55.5
+pano_admin: admin
+pano_password: paloalto
